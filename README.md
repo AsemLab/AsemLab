@@ -8,13 +8,13 @@
 <p align="center">
 <a href="https://asemlab.github.io"><img src="./figures/website.png" width="48" height="48" alt="My portfolio"/></a>
   <img src="./figures/transparent.png" width="32" height="48" alt="trasnparent"/>
-<a href="https://www.linkedin.com/in/asem-abu-alrub/"><img src="./figures/linkedin_green.png"  width="48" height="48" alt="LinkedIn profile"/></a>
+<a href="https://www.linkedin.com/in/asem-abu-alrub/"><img src="./figures/linkedin_blue.png"  width="48" height="48" alt="LinkedIn profile"/></a>
   <img src="./figures/transparent.png" width="32" height="48" alt="trasnparent"/>
 <a href="https://play.google.com/store/apps/dev?id=6617903911951431961"><img src="./figures/play_store.png" width="48" height="48"  alt="My store"/></a>
   <img src="./figures/transparent.png" width="32" height="48" alt="trasnparent"/>
 <a href="mailto:asem.m.abualrub@gmail.com"><img src="./figures/gmail.png" width="48" height="48" alt="Email"/></a>
   <img src="./figures/transparent.png" width="32" height="48" alt="trasnparent"/>
-<a href="https://g.dev/AsemAbuAlrub"><img src=./figures/google_deves" width="84" height="48" alt="Google developers"/></a> 
+<a href="https://g.dev/AsemAbuAlrub"><img src="./figures/google_devs.png" width="84" height="48" alt="Google developers"/></a> 
 </p>
 
 <br>
@@ -68,7 +68,7 @@
 
 <div align="center">
 	
-![](https://komarev.com/ghpvc/?username=asemlab3&color=2EDF85&style=flat-square)
+![](https://komarev.com/ghpvc/?username=asemlab3&color=1ecaf0&style=flat-square)
 
 [![](https://github-readme-stats.vercel.app/api?username=asemlab&show_icons=true&hide=contribs&include_all_commits=false&title_color=1ecaf0&icon_color=1ecaf0&border_radius=12.0&border_color=0D1117&card_width=350&text_color=a5adba&bg_color=0D1117)](#gh-dark-mode-only)
 [![](https://github-readme-stats.vercel.app/api?username=asemlab&show_icons=true&hide=contribs&include_all_commits=false&title_color=1ecaf0&icon_color=1ecaf0&border_radius=12.0&border_color=a5adba&card_width=350&hide_border=true)](#gh-light-mode-only)
