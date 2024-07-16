@@ -70,14 +70,14 @@
 	
 ![](https://komarev.com/ghpvc/?username=asemlab3&color=2EDF85&style=flat-square)
 
-[![](https://github-readme-stats.vercel.app/api?username=asemlab&show_icons=true&hide=contribs&include_all_commits=false&title_color=1ecaf0&icon_color=1ecaf0&border_radius=12.0&border_color=a5adba&card_width=350&text_color=a5adba&bg_color=22,3d424a,212428)](#gh-dark-mode-only)
-[![](https://github-readme-stats.vercel.app/api?username=asemlab&show_icons=true&hide=contribs&include_all_commits=false&title_color=1ecaf0&icon_color=1ecaf0&border_radius=12.0&border_color=a5adba&card_width=350)](#gh-light-mode-only)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=asemlab&layout=compact&title_color=1ecaf0&border_radius=12.0&border_color=a5adba&card_width=400&text_color=a5adba&bg_color=22,3d424a,212428)](#gh-dark-mode-only)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=asemlab&layout=compact&title_color=1ecaf0&border_radius=12.0&border_color=a5adba&card_width=400)](#gh-light-mode-only)
+[![](https://github-readme-stats.vercel.app/api?username=asemlab&show_icons=true&hide=contribs&include_all_commits=false&title_color=1ecaf0&icon_color=1ecaf0&border_radius=12.0&border_color=0D1117&card_width=350&text_color=a5adba&bg_color=0D1117)](#gh-dark-mode-only)
+[![](https://github-readme-stats.vercel.app/api?username=asemlab&show_icons=true&hide=contribs&include_all_commits=false&title_color=1ecaf0&icon_color=1ecaf0&border_radius=12.0&border_color=a5adba&card_width=350&hide_border=true)](#gh-light-mode-only)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=asemlab&layout=compact&title_color=1ecaf0&border_radius=12.0&border_color=0D1117&card_width=400&text_color=a5adba&bg_color=0D1117)](#gh-dark-mode-only)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=asemlab&layout=compact&title_color=1ecaf0&border_radius=12.0&border_color=a5adba&card_width=400&hide_border=true)](#gh-light-mode-only)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AsemLab&theme=merko&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&sideLabels=189DBA&background=22%2C3D424A%2C212428&dates=A5ADBA&ring=1ECAF0&fire=1ECAF0&currStreakNum=1ECAF0&sideNums=1ECAF0&currStreakLabel=189DBA&border=A5ADBA&card_width=600)](#gh-dark-mode-only)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AsemLab&theme=merko&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&sideLabels=189DBA&dates=A5ADBA&ring=1ECAF0&fire=1ECAF0&currStreakNum=1ECAF0&sideNums=1ECAF0&currStreakLabel=189DBA&background=FFFFFF&border=A5ADBA&card_width=600)](#gh-light-mode-only)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AsemLab&theme=merko&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&sideLabels=189DBA&background=0D1117&dates=A5ADBA&ring=1ECAF0&fire=1ECAF0&currStreakNum=1ECAF0&sideNums=1ECAF0&currStreakLabel=189DBA&border=0D1117&card_width=600)](#gh-dark-mode-only)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AsemLab&theme=merko&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&sideLabels=189DBA&dates=A5ADBA&ring=1ECAF0&fire=1ECAF0&currStreakNum=1ECAF0&sideNums=1ECAF0&currStreakLabel=189DBA&background=FFFFFF&border=A5ADBA&card_width=600&hide_border=true)](#gh-light-mode-only)
 
 [![Snake animation](https://raw.githubusercontent.com/asemlab/asemlab/output/snake.svg)](#gh-dark-mode-only)
 [![Snake animation](https://raw.githubusercontent.com/asemlab/asemlab/output/snake_dark.svg)](#gh-light-mode-only)
