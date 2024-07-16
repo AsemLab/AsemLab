@@ -14,7 +14,7 @@
   <img src="./figures/transparent.png" width="32" height="48" alt="trasnparent"/>
 <a href="mailto:asem.m.abualrub@gmail.com"><img src="./figures/gmail.png" width="48" height="48" alt="Email"/></a>
   <img src="./figures/transparent.png" width="32" height="48" alt="trasnparent"/>
-<a href="https://g.dev/AsemAbuAlrub"><img src="./figures/google_devs.png" width="84" height="48" alt="Google developers"/></a> 
+<a href="https://g.dev/AsemAbuAlrub"><img src=./figures/google_deves" width="84" height="48" alt="Google developers"/></a> 
 </p>
 
 <br>
@@ -55,9 +55,9 @@
 ### Problem Solving 🤔
 <br>
 <div align="center">
-<a href="https://www.hackerrank.com/profile/asemxx97"><img height="32" width="128" src="https://img.shields.io/badge/hackerrank-2EDF85?logo=hackerrank&logoColor=white"/></a>
-<a href="https://exercism.org/profiles/Asem97"><img height="32" width="128" src="https://img.shields.io/badge/exercism-2EDF85?logo=exercism&logoColor=white"/></a>
-<a href="https://codeforces.com/profile/Asem97"><img height="32" width="128" src="https://img.shields.io/badge/codeforces-2EDF85?logo=codeforces&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/profile/asemxx97"><img height="32" width="128" src="https://img.shields.io/badge/hackerrank-1ecaf0?logo=hackerrank&logoColor=white"/></a>
+<a href="https://exercism.org/profiles/Asem97"><img height="32" width="128" src="https://img.shields.io/badge/exercism-1ecaf0?logo=exercism&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/Asem97"><img height="32" width="128" src="https://img.shields.io/badge/codeforces-1ecaf0?logo=codeforces&logoColor=white"/></a>
 </div>
 
 <br>
@@ -74,6 +74,7 @@
 [![](https://github-readme-stats.vercel.app/api?username=asemlab&show_icons=true&hide=contribs&include_all_commits=false&title_color=1ecaf0&icon_color=1ecaf0&border_radius=12.0&border_color=a5adba&card_width=350&hide_border=true)](#gh-light-mode-only)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=asemlab&layout=compact&title_color=1ecaf0&border_radius=12.0&border_color=0D1117&card_width=400&text_color=a5adba&bg_color=0D1117)](#gh-dark-mode-only)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=asemlab&layout=compact&title_color=1ecaf0&border_radius=12.0&border_color=a5adba&card_width=400&hide_border=true)](#gh-light-mode-only)
+
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AsemLab&theme=merko&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&sideLabels=189DBA&background=0D1117&dates=A5ADBA&ring=1ECAF0&fire=1ECAF0&currStreakNum=1ECAF0&sideNums=1ECAF0&currStreakLabel=189DBA&border=0D1117&card_width=600)](#gh-dark-mode-only)
