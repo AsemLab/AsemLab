@@ -77,7 +77,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AsemLab&theme=merko&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&sideLabels=189DBA&background=22%2C3D424A%2C212428&dates=A5ADBA&ring=1ECAF0&fire=1ECAF0&currStreakNum=1ECAF0&sideNums=1ECAF0&currStreakLabel=189DBA&border=A5ADBA&card_width=600)](#gh-light-mode-only)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AsemLab&theme=merko&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&sideLabels=189DBA&dates=A5ADBA&ring=1ECAF0&fire=1ECAF0&currStreakNum=1ECAF0&sideNums=1ECAF0&currStreakLabel=189DBA&background=FFFFFF&border=A5ADBA&card_width=600)](#gh-dark-mode-only)
 
-<img src="https://raw.githubusercontent.com/asemlab/asemlab/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/asemlab/asemlab/output/snake.svg#gh-dark-mode-only" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/asemlab/asemlab/output/snake_dark.svg" alt="Snake animation" />
 
 </div>
 
