@@ -6,15 +6,15 @@
 ### Find me on 🕵🏻‍♂️
 <br>
 <p align="center">
-<a href="https://asemlab.github.io"><img src="./figures/website.png" width="48" height="48" alt="My portfolio"/></a>
+<a href="https://asemlab.netlify.app" target="_blank"><img src="./figures/website.png" width="48" height="48" alt="My portfolio"/></a>
   <img src="./figures/transparent.png" width="32" height="48" alt="trasnparent"/>
-<a href="https://www.linkedin.com/in/asem-abu-alrub/"><img src="./figures/linkedin_blue.png"  width="48" height="48" alt="LinkedIn profile"/></a>
+<a href="https://www.linkedin.com/in/asem-abu-alrub/" target="_blank"><img src="./figures/linkedin_blue.png"  width="48" height="48" alt="LinkedIn profile"/></a>
   <img src="./figures/transparent.png" width="32" height="48" alt="trasnparent"/>
-<a href="https://play.google.com/store/apps/dev?id=6617903911951431961"><img src="./figures/play_store.png" width="48" height="48"  alt="My store"/></a>
+<a href="https://play.google.com/store/apps/dev?id=6617903911951431961" target="_blank"><img src="./figures/play_store.png" width="48" height="48"  alt="My store"/></a>
   <img src="./figures/transparent.png" width="32" height="48" alt="trasnparent"/>
 <a href="mailto:asem.m.abualrub@gmail.com"><img src="./figures/gmail.png" width="48" height="48" alt="Email"/></a>
   <img src="./figures/transparent.png" width="32" height="48" alt="trasnparent"/>
-<a href="https://g.dev/AsemAbuAlrub"><img src="./figures/google_devs.png" width="84" height="48" alt="Google developers"/></a> 
+<a href="https://g.dev/AsemAbuAlrub" target="_blank"><img src="./figures/google_devs.png" width="84" height="48" alt="Google developers"/></a> 
 </p>
 
 <br>
@@ -76,9 +76,9 @@
 ### Problem Solving 🤔
 <br>
 <div align="center">
-<a href="https://www.hackerrank.com/profile/asemxx97"><img height="32" width="128" src="https://img.shields.io/badge/hackerrank-1ecaf0?logo=hackerrank&logoColor=white"/></a>
-<a href="https://exercism.org/profiles/Asem97"><img height="32" width="128" src="https://img.shields.io/badge/exercism-1ecaf0?logo=exercism&logoColor=white"/></a>
-<a href="https://codeforces.com/profile/Asem97"><img height="32" width="128" src="https://img.shields.io/badge/codeforces-1ecaf0?logo=codeforces&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/profile/asemxx97" target="_blank"><img height="32" width="128" src="https://img.shields.io/badge/hackerrank-1ecaf0?logo=hackerrank&logoColor=white"/></a>
+<a href="https://exercism.org/profiles/Asem97" target="_blank"><img height="32" width="128" src="https://img.shields.io/badge/exercism-1ecaf0?logo=exercism&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/Asem97" target="_blank"><img height="32" width="128" src="https://img.shields.io/badge/codeforces-1ecaf0?logo=codeforces&logoColor=white"/></a>
 </div>
 
 <br>
