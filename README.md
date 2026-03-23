@@ -23,22 +23,22 @@
 ### Tech Stack 🛠
 <br>
 <div align="center" style="border:0">
-	<table>
-		<tr>
-			<td align="center" width="150" ><img width="50" src="./figures/android.png"/><br>Android</td>
+	<table>		
+		<tr height="130">
+			<td align="center" width="150"><img width="50" src="./figures/android.png"/><br>Android</td>
 			<td align="center" width="150"><img width="50" src="./figures/kotlin.png"/><br>Koltin</td>
 			<td align="center"><img width="50" src="./figures/kotlin_multiplatform.png"/><br>Kotlin Multiplatform</td>
 			<td align="center"><img width="50" src="./figures/compose_multiplatform.png"/><br>Compose Multiplatform</td>
 			<td align="center" width="150"><img width="50" src="./figures/java.png"/><br>Java</td>
     	</tr>
-  		<tr>
+		<tr height="130">
 			<td align="center" width="150"><img width="50" src="./figures/android_studio.png"/><br>Android Studio</td>
 			<td align="center" width="150"><img width="50" src="./figures/intellij.png"/><br>Intellij</td>
 			<td align="center"><img width="50" src="./figures/datagrip.png"/><br>Datagrip</td>
 			<td align="center"><img width="50" src="./figures/postman.png"/><br>Postman</td>
 			<td align="center"><img width="50" src="./figures/vysor.png"/><br>Vysor</td>
     	</tr>
-		<tr>
+		<tr height="130">
 			<td align="center"><img width="50" src="./figures/firebase.png"/><br>Firebase</td>
 			<td align="center"><img width="50" src="./figures/play_console.png"/><br>Play Console</td>
 			<td align="center"><img width="50" src="./figures/git.png"/><br>Git</td>
@@ -52,7 +52,7 @@
 			</td>
 			<td align="center"><img width="50" src="./figures/slack.png"/><br>Slack</td>
     	</tr>
-		<tr>
+		<tr height="130">
 			<td align="center"><img width="50" src="./figures/figma.png"/><br>Figma</td>
 			<td align="center"><img width="50" src="./figures/canva.png"/><br>Canva</td>
 			<td align="center"><img width="50" src="./figures/clip.png"/><br>Clip</td>
