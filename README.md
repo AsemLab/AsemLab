@@ -64,7 +64,7 @@
 			  </picture>
 			  <br>ChatGPT
 			</td>
-			<td align="center"><img width="50" src="./figures/cursor.png"/><br>Cursor</td>
+			<td align="center"><img width="50" src="./figures/Claude_AI_symbol.svg.png"/><br>Claude AI</td>
     	</tr>
 	</table>
 </div>
